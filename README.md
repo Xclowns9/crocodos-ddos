@@ -5,6 +5,4 @@ cd crocodos-ddos
 python2 ddos.py
 ```
 
-# Contact Me
-
-[Instagram](https://instagram.com/rapaaxd/)
+Thx you:)
